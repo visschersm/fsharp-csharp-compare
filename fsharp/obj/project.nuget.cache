@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kp8rIEGV5meL6AvdB8tl6qUireTvmjUVpB0rb4X0/wSJoasMkXFRZ0KMap86rF55Qs2BBMROwhyy8zs0TGWyuQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Mark - Gaming\\source\\repos\\fsharp\\csharp-comapre\\fsharp-csharp-compare\\fsharp\\fsharp.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Mark - Gaming\\.nuget\\packages\\fsharp.core\\5.0.0\\fsharp.core.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
